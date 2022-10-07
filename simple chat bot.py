@@ -30,7 +30,7 @@ def count():
         print(curr, '!')
         curr = curr + 1
 
-   def test():
+def test():
     print("Let's test your programming knowledge.")
     print("Why do we use methods?")
     a = print("1. To repeat a statement multiple times.")
